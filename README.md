@@ -24,7 +24,7 @@ Finite-difference drum simulation with FPGA computation, HPS control, and audio 
 
 ## Engineering focus
 
-Verilog / SystemVerilog · C / C++ · HLS · UVM · Formal verification · XRT
+Verilog / SystemVerilog · C / C++ · HLS
 
 The [complete portfolio](https://github.com/matthales123/engineering-portfolio) also includes boids simulation, CNN acceleration, VLSI schematic/layout work, and parallel-programming projects. Individual READMEs describe the implementation, run instructions, validation scope, and team contributions.
 
